@@ -1,0 +1,9 @@
+/home/yaybeno/uwrt/software_challenge/src/build/challenge_package/CMakeFiles/install/strip.dir
+/home/yaybeno/uwrt/software_challenge/src/build/challenge_package/CMakeFiles/install/local.dir
+/home/yaybeno/uwrt/software_challenge/src/build/challenge_package/CMakeFiles/edit_cache.dir
+/home/yaybeno/uwrt/software_challenge/src/build/challenge_package/CMakeFiles/test.dir
+/home/yaybeno/uwrt/software_challenge/src/build/challenge_package/CMakeFiles/install.dir
+/home/yaybeno/uwrt/software_challenge/src/build/challenge_package/CMakeFiles/list_install_components.dir
+/home/yaybeno/uwrt/software_challenge/src/build/challenge_package/CMakeFiles/rebuild_cache.dir
+/home/yaybeno/uwrt/software_challenge/src/build/challenge_package/CMakeFiles/challenge_package_uninstall.dir
+/home/yaybeno/uwrt/software_challenge/src/build/challenge_package/CMakeFiles/uninstall.dir

@@ -1,0 +1,15 @@
+/home/yaybeno/uwrt/software_challenge/src/install/challenge_package/share/ament_index/resource_index/package_run_dependencies/challenge_package
+/home/yaybeno/uwrt/software_challenge/src/install/challenge_package/share/ament_index/resource_index/parent_prefix_path/challenge_package
+/home/yaybeno/uwrt/software_challenge/src/install/challenge_package/share/challenge_package/environment/ament_prefix_path.sh
+/home/yaybeno/uwrt/software_challenge/src/install/challenge_package/share/challenge_package/environment/ament_prefix_path.dsv
+/home/yaybeno/uwrt/software_challenge/src/install/challenge_package/share/challenge_package/environment/path.sh
+/home/yaybeno/uwrt/software_challenge/src/install/challenge_package/share/challenge_package/environment/path.dsv
+/home/yaybeno/uwrt/software_challenge/src/install/challenge_package/share/challenge_package/local_setup.bash
+/home/yaybeno/uwrt/software_challenge/src/install/challenge_package/share/challenge_package/local_setup.sh
+/home/yaybeno/uwrt/software_challenge/src/install/challenge_package/share/challenge_package/local_setup.zsh
+/home/yaybeno/uwrt/software_challenge/src/install/challenge_package/share/challenge_package/local_setup.dsv
+/home/yaybeno/uwrt/software_challenge/src/install/challenge_package/share/challenge_package/package.dsv
+/home/yaybeno/uwrt/software_challenge/src/install/challenge_package/share/ament_index/resource_index/packages/challenge_package
+/home/yaybeno/uwrt/software_challenge/src/install/challenge_package/share/challenge_package/cmake/challenge_packageConfig.cmake
+/home/yaybeno/uwrt/software_challenge/src/install/challenge_package/share/challenge_package/cmake/challenge_packageConfig-version.cmake
+/home/yaybeno/uwrt/software_challenge/src/install/challenge_package/share/challenge_package/package.xml
